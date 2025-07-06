@@ -1,0 +1,5 @@
+Xoá khoá cũ: rm client_*.pem server_*.pemz
+
+Chạy server: streamlit run server.py
+
+Chạy client: streamlit run client.py
