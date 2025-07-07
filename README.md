@@ -12,6 +12,8 @@
 
 </div>
 
+
+## 🎯 Giới thiệu bài toán
 This project implements a secure client-server system for transferring CV files (PDF format) using **Streamlit** for the user interface and cryptographic techniques for security. The system ensures **confidentiality**, **integrity**, and **authenticity** of the transferred files through **RSA and AES encryption**, **digital signatures**, and **hash verification**.
 
 ---
