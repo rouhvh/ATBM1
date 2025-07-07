@@ -1,4 +1,16 @@
-# Secure CV Transfer System
+<h1 align="center">ỨNG DỤNG BẢO MẬT TIN NHẮN VĂN BẢN</h1>
+
+<p align="center">
+  <img src="images/logoDaiNam.png" alt="DaiNam University Logo" width="200"/>
+  <img src="images/LogoFit.png" alt="AIoTLab Logo" width="170"/>
+</p>
+
+<div align="center">
+
+[![Faculty of Information Technology](https://img.shields.io/badge/Faculty%20of%20Information%20Technology-blue?style=for-the-badge)](https://dainam.edu.vn/vi/khoa-cong-nghe-thong-tin)
+[![DaiNam University](https://img.shields.io/badge/DaiNam%20University-orange?style=for-the-badge)](https://dainam.edu.vn)
+
+</div>
 
 This project implements a secure client-server system for transferring CV files (PDF format) using **Streamlit** for the user interface and cryptographic techniques for security. The system ensures **confidentiality**, **integrity**, and **authenticity** of the transferred files through **RSA and AES encryption**, **digital signatures**, and **hash verification**.
 
