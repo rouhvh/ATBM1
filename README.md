@@ -165,6 +165,6 @@ streamlit run client.py
 
 
 
-  © 2025 NHÓM 6, CNTT16-04, TRƯỜNG ĐẠI HỌC ĐẠI NAM
+  © 2025 NHÓM 13, CNTT16-04, TRƯỜNG ĐẠI HỌC ĐẠI NAM
 
 ---
