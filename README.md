@@ -1,4 +1,4 @@
-<h1 align="center">ỨNG DỤNG BẢO MẬT TIN NHẮN VĂN BẢN</h1>
+<h1 align="center">HỆ THÔNG GỬI CV AN TOÀN CÓ KIỂM TRA IP</h1>
 
 <p align="center">
   <img src="image/logoDaiNam.png" alt="DaiNam University Logo" width="200"/>
