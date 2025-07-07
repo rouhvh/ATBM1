@@ -1,8 +1,8 @@
 <h1 align="center">ỨNG DỤNG BẢO MẬT TIN NHẮN VĂN BẢN</h1>
 
 <p align="center">
-  <img src="images/logoDaiNam.png" alt="DaiNam University Logo" width="200"/>
-  <img src="images/LogoFit.png" alt="AIoTLab Logo" width="170"/>
+  <img src="image/logoDaiNam.png" alt="DaiNam University Logo" width="200"/>
+  <img src="image/LogoFit.png" alt="AIoTLab Logo" width="170"/>
 </p>
 
 <div align="center">
@@ -145,9 +145,24 @@ streamlit run client.py
 - RSA key size: 1024 bits (for demo); use 2048 or 4096 for production.  
 - No persistent file storage beyond working directory.  
 - Only supports one client connection at a time.
+## 🖥️ Giao diện và hoạt động
+
+### Trang Client
+1. **UI Client**
+  <img src="image/UI client.png" alt="Main App Interface" width="800">
+
+2. **UI Client khi gửi CV thành công**
+  <img src="image/UIguithanhcong.png" alt="Main App Interface" width="800">
+
+### Trang Server
+1. **UI Server**
+  <img src="image/UI server.png" alt="Main App Interface" width="800">
+
+2. **UI Server khi nhận thành công**
+  <img src="image/UInhanthanhcong.png" alt="Main App Interface" width="800">
+
+
+
+  © 2025 NHÓM 6, CNTT16-04, TRƯỜNG ĐẠI HỌC ĐẠI NAM
 
 ---
-
-## 📄 License
-
-This project is licensed under the **MIT License**.
